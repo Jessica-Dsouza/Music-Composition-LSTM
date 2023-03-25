@@ -1,0 +1,2 @@
+# Music Composition LSTM
+ A recurrent neural network is a class of artificial neural networks that make use of sequential information. They are called recurrent because they perform the same function for every single element of a sequence, with the result being dependent on previous computations. Whereas outputs are independent of previous computations in traditional neural networks. In this home exercise, we will be using an LSTM model to generate music.
